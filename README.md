@@ -7,7 +7,8 @@
 
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
 
-- ⚡ Fun fact **The Chinese character for so called biangbiang面 or biangbiang noodles is so complicated that it is not included in unicode. However, the Ideographs Group included it into the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).**
+- ⚡ **Fun fact** 
+The Chinese character for so called biangbiang面 or biangbiang noodles is so complicated that it is not included in unicode. However, the Ideographs Group included it into the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
