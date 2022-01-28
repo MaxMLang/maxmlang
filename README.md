@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hello World, I'm Max 👋</h1>
 <h3 align="center">A passionate Statistics student from Germany.</h3>
 
 - 🔭 I’m currently stuying **Statistics and Computer Science at LMU Munich**
@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
 
 - ⚡ **Fun fact** 
-The Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it is not included in unicode. However, it is included in the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).
+Did you know that... the Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it is not included in unicode. However, it is included in the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).
 
 
 <h3 align="left">Connect with me:</h3>
