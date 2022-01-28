@@ -35,7 +35,7 @@ const dev = {
    person: {
     name: Max Lang,
     age: 20,
-    location: California,
+    location: Munich Germany,
     favorite_food: Schnitzel with french fries
     },
    code: [R, Python, SQL, Java(script)],
