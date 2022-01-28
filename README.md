@@ -28,4 +28,21 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  </p>
 
+#### Development:
+
+ ```javascript
+const dev = {
+   person: {
+    name: Max Lang
+    age: 20,
+    location: California,
+    favorite_food: Schnitzel with french fries
+    },
+   code: [R, Python, SQL, Java(script)],
+   tools: [tidyverse, vscode, git, github, heroku, netlify],
+   hobbies: [running (half) marathon, Chinese Language, hearthstone, reading]
+}
+```
+<hr>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxmlang&show_icons=true&locale=en" alt="maxmlang" /></p>
