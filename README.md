@@ -8,9 +8,7 @@
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
 
 - ⚡ **Fun fact** 
-- <a title="Erin Silversmith, Cangjie6, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="512" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>
-The Chinese character for so called <p <a href="https://en.wikipedia.org/wiki/Biangbiang_noodles#/media/File:Biáng.svg" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Biangbiang_noodles#/media/File:Biáng.svg" alt="biangbiang" width= "10" height= "10" /> </a>
-面 or biangbiang noodles is so complicated that it is not included in unicode. However, it is included in the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).
+The Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="20" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it is not included in unicode. However, it is included in the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
