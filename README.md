@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
 
 - ⚡ **Fun fact** 
-The Chinese character for so called <a href="https://en.wikipedia.org/wiki/Biangbiang_noodles#/media/File:Biáng.svg" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:Biáng.svg" alt="biangbiang" width= "10" height= "10" /> </a> 
+The Chinese character for so called <a href="https://en.wikipedia.org/wiki/Biangbiang_noodles#/media/File:Biáng.svg" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Biangbiang_noodles#/media/File:Biáng.svg" alt="biangbiang" width= "10" height= "10" /> </a> 
 面 or biangbiang noodles is so complicated that it is not included in unicode. However, it is included in the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).
 
 <h3 align="left">Connect with me:</h3>
