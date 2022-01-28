@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently stuying **Statistics and Computer Science at LMU Munich**
 
-- 🌱 I’m currently learning **R, Python, SQL & Java**
+- 🌱 Interested in **R, Python, SQL & Java projects**
 
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
 
