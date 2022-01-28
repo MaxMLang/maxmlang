@@ -33,7 +33,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
  ```javascript
 const dev = {
    person: {
-    name: Max Lang
+    name: Max Lang,
     age: 20,
     location: California,
     favorite_food: Schnitzel with french fries
