@@ -45,4 +45,3 @@ const dev = {
 ```
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxmlang&show_icons=true&locale=en" alt="maxmlang" /></p>
