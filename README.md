@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate statistics student from Germany.</h3>
+<h3 align="center">A passionate Statistics student from Germany.</h3>
 
-- 🔭 I’m currently stuying **statistics and computer science at LMU**
+- 🔭 I’m currently stuying **Statistics and Computer Science at LMU Munich**
 
 - 🌱 I’m currently learning **R, Python, SQL & Java**
 
