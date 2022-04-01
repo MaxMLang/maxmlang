@@ -9,10 +9,10 @@
 
 - ⚡ **Fun fact** 
 Did you know that... the Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it is not included in unicode. However, it is included in the Unified Chinese Character Expansion E. The code is UTC-00791 (traditional) or UTC-01312 (simplified).
-- Check out the projects I have been working on recently:
-[Financial Dashboard with R Shiny](https://github.com/MaxMLang/FinancialDashboard)
-[Analysis of the German Federal Election 2021](https://github.com/MaxMLang/AP-BTW2021)
-[More projects are on my blog](https://maxstatdocumentation.netlify.app)
+- Check out the **projects** I have been working on recently:
+* [Financial Dashboard with R Shiny](https://github.com/MaxMLang/FinancialDashboard)
+* [Analysis of the German Federal Election 2021](https://github.com/MaxMLang/AP-BTW2021)
+* [More projects are on my blog](https://maxstatdocumentation.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
