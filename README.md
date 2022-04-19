@@ -18,6 +18,8 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/max-melchior-l-06b39a204" target="www.linkedin.com/in/max-melchior-l-06b39a204"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxml" height="30" width="40" /></a>
+   
+www.linkedin.com/in/max-melchior-l-06b39a204
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
