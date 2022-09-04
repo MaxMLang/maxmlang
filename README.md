@@ -38,7 +38,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 const dev = {
    person: {
     name: Max Lang,
-    age: 20,
+    age: 21,
     location: Munich Germany,
     favorite_food: Schnitzel with french fries
     },
