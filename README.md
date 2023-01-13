@@ -33,19 +33,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">Development:</h3>
-
- ```javascript
-const dev = {
-   person: {
-    name: Max Lang,
-    age: 21,
-    location: Munich Germany,
-    favorite_food: Schnitzel with french fries
-    },
-   code: [R, Python, SQL, Java(script)],
-   tools: [tidyverse, vscode, git, github, heroku, netlify],
-   hobbies: [running (half) marathon, Chinese Language, hearthstone, reading]
-}
-```
+<a <img src="hex_dp_MTU.png" alt="hex_datapipeliner" width="40" height="40"/> 
+<figcaption>Contributed and released to MTU internal package datapieplineR - Building stable and secure datapipelines</figcaption> </a> 
 <hr>
 
