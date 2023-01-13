@@ -33,7 +33,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">Development:</h3>
-<a <img src="https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png" alt="hex_datapipeliner" width="40" height="40"/> 
-<figcaption>Contributed and released to MTU internal package datapieplineR - Building stable and secure datapipelines</figcaption> </a> 
-<hr>
-
+<figure>
+    <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' alt='hex-sticker' />
+    <figcaption>Contributed and releases MTU Aero Engines internal package datapipelineR - Building stable and secure datapipelines</figcaption>
+</figure>
