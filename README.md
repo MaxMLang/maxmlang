@@ -34,6 +34,6 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 <h3 align="left">Development:</h3>
 <figure>
-    <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' alt='hex-sticker' width="100" height="100" />
+    <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' alt='hex-sticker' width="180" height="180" />
     <figcaption>Contributed and releases MTU Aero Engines internal package datapipelineR - Building stable and secure datapipelines</figcaption>
 </figure>
