@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently studying **Statistics and Computer Science at LMU Munich**
 
-- 🌱 Interested in **R, Python, SQL projects**, I love making projects interactive and available for everyone through **R Shiny Apps** 💜
+- 🌱 Interested in **R, Python, SQL projects**
+- 💜 I love making projects interactive and available for everyone through **R Shiny Apps** 
 
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
 
