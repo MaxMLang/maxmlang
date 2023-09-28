@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Max 👋</h1>
 <h3 align="center">A passionate Statistics student from Germany.</h3>
 
-- 🔭 I’m currently studying **Statistics and Computer Science at LMU Munich**
+- 🔭 I’m currently studying **Statistics at the University of Oxford**
 
 - 🌱 Interested in **R, Python, SQL projects**
 - 💜 I love making projects interactive and available for everyone through **R Shiny Apps** 
