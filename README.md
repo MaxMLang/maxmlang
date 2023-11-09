@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Max 👋</h1>
 
-*Passionate about utilizing statistical modeling to better understand processes in the real world and grasp the uncertainty of the future.*
+*Passionate about utilizing statistical modeling to grasp the uncertainty of the future.*
 
 - 🔭 I’m currently studying **Statistics at the University of Oxford**
 
