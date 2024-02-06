@@ -13,6 +13,7 @@
 Did you know that... the Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it was not included in unicode until March 20, 2020, Unicode 13.0.0.. Until that point, there were no standardized ways of entering or representing them on computers.
 - ☕ **Check out the projects** I have been working on recently:
    - [🧬 R Implementation of the Li Stephens Algorithm for Chromosome Paintings](https://github.com/MaxMLang/li-stephens-algo)
+   - [🏡 Case Study on Mortgage Approvals](https://github.com/MaxMLang/us-mortgage-approvals)
    - [💧 Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://github.com/StatPrak-Droughts)
    - [🦠 Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
    - [💲 Portfolio Analysis R Shiny App](https://github.com/MaxMLang/portfolio_analysis)
