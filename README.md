@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying **Statistics at the University of Oxford**
 
-- 🌱 Interested in **R, Python, SQL projects**
+- 🌱 Interested in **R, Python, Julia projects**
 - 💜 I love making projects interactive and available for everyone through **R Shiny Apps** 
 
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
