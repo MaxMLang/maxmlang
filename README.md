@@ -15,6 +15,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
    - [📊 Copula Models and their Applications](https://maxmlang.shinyapps.io/copula-playground/), [Blog Post](https://maxstatdocumentation.netlify.app/post/2024/02/08/copula-playground/)
    - [🧬 R Implementation of the Li Stephens Algorithm for Chromosome Paintings](https://github.com/MaxMLang/li-stephens-algo)
    - [🏡 Case Study on Mortgage Approvals](https://github.com/MaxMLang/us-mortgage-approvals)
+   - [🗃️ Shiny App / Course Material for workshops with German public officials as part of the German Research Data Infrastructure (BERD@NFDI) ](https://github.com/MaxMLang/shiny-chart-doc)
    - [💧 Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://github.com/StatPrak-Droughts)
    - [🦠 Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
    - [💲 Portfolio Analysis R Shiny App](https://github.com/MaxMLang/portfolio_analysis)
