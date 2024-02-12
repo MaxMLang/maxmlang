@@ -12,6 +12,7 @@
 - ⚡ **Fun fact** 
 Did you know that... the Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it was not included in unicode until March 20, 2020, Unicode 13.0.0.. Until that point, there were no standardized ways of entering or representing them on computers.
 - ☕ **Check out the projects** I have been working on recently:
+   - [💬 Bayesian Wordle - How a Bayesian Statistician Plays Wordle](https://github.com/MaxMLang/bayesian-wordle), [Blog Post](https://maxstatdocumentation.netlify.app/post/2024/02/12/how-a-bayesian-statistician-plays-wordle/)
    - [📊 Copula Models and their Applications](https://maxmlang.shinyapps.io/copula-playground/), [Blog Post](https://maxstatdocumentation.netlify.app/post/2024/02/08/copula-playground/)
    - [🧬 R Implementation of the Li Stephens Algorithm for Chromosome Paintings](https://github.com/MaxMLang/li-stephens-algo)
    - [🏡 Case Study on Mortgage Approvals](https://github.com/MaxMLang/us-mortgage-approvals)
