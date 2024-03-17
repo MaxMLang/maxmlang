@@ -24,7 +24,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/max-melchior-l-06b39a204" target="https://www.linkedin.com/in/maxmlang/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxml" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maxmlang/" target="https://www.linkedin.com/in/maxmlang/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxml" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="tensorflow" width="40" height="40"/> </a> 
