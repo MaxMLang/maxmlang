@@ -41,7 +41,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 <h3 align="left">Development:</h3>
 <figure>
     <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' alt='datapipeliner-logo' width="150" height="155" />
-    <img src='https://github.com/MaxMLang/maxmlang/assets/pytector-logo.png' alt='pytector-logo' width="150" height="155" />
+    <img src='https://github.com/MaxMLang/maxmlang/assets/pytector-logo.png?raw=true' alt='pytector-logo' width="150" height="155" />
 </figure>
 
 Contributed and released MTU Aero Engines AG internal package *datapipelineR - Building stable and secure datapipelines*
