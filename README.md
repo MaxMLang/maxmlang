@@ -41,6 +41,6 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 <h3 align="left">Package Development:</h3>
 <p align="center">
-    <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' href="https://aeroreport.de/en/innovation/new-data-management-system-for-engine-test-data" alt='datapipeliner-logo' width="150" height="155" />
-    <img src='https://github.com/MaxMLang/assets/blob/main/pytector-logo.png?raw=true' href="https://github.com/MaxMLang/pytector" alt='pytector-logo' width="150" height="155" />
+    <a href="https://aeroreport.de/en/innovation/new-data-management-system-for-engine-test-data" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' href="https://aeroreport.de/en/innovation/new-data-management-system-for-engine-test-data" alt='datapipeliner-logo' width="150" height="155" />
+    <a href="https://github.com/MaxMLang/pytector" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/assets/blob/main/pytector-logo.png?raw=true'  alt='pytector-logo' width="150" height="155" />
 </p>
