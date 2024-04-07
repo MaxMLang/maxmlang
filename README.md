@@ -39,9 +39,9 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  </p>
 
 <h3 align="left">Development:</h3>
-<figure>
+<p align="center">
     <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' alt='datapipeliner-logo' width="150" height="155" />
     <img src='https://github.com/MaxMLang/maxmlang/assets/pytector-logo.png?raw=true' alt='pytector-logo' width="150" height="155" />
-</figure>
+</p>
 
 Contributed and released MTU Aero Engines AG internal package *datapipelineR - Building stable and secure datapipelines*
