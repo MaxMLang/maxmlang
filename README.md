@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying **Statistics at the University of Oxford**
 
 - 🌱 Interested in **R, Python, Julia projects**
-- 💻 Currently developing several full-stack AI (LLM) Projects using: Langchain, LamaIndex, Chainlit, HuggingFace, OpenAI's Toolkit, and Pinecone.
+- 💻 Currently developing several full-stack AI (LLM) Projects using: Langchain, LamaIndex, Chainlit, [HuggingFace](https://huggingface.co/MaxMLang), OpenAI's Toolkit, and Pinecone.
 - 💜 I love making projects interactive and available for everyone through **R Shiny Apps** 
 
 - 📝 I regularly write articles on my blog [https://maxstatdocumentation.netlify.app/](https://maxstatdocumentation.netlify.app/)
