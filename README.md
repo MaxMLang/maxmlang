@@ -45,6 +45,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://aeiljuispo.cloudimg.io/v7/https://cdn-uploads.hf.baby/production/uploads/6424f01ea4f3051f54dbbd85/oqVQ04b5KiGt5WOWJmYt8.png?w=200&h=200&f=face" alt="LamaIndex" width="40" height="40"/> </a>  
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/> </a>  
 <a href="https://chainlit.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="chainlit" width="40" height="40"/> </a>  
+<a href="https://pinecone.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="chainlit" width="40" height="40"/> </a>  
 </p>
 
 <h3 align="left">Package Development:</h3>
