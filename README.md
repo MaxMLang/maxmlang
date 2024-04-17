@@ -13,6 +13,8 @@
 - ⚡ **Fun fact** 
 Did you know that... the Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it was not included in unicode until March 20, 2020, Unicode 13.0.0.. Until that point, there were no standardized ways of entering or representing them on computers.
 - ☕ **Check out the projects** I have been working on recently:
+   - [📖 RAG-nificent -  a state-of-the-art repository that leverages the power of Retrieval-Augmented Generation (RAG) to provide instant answers and references from a curated directory of PDFs](https://github.com/MaxMLang/pytector/RAG-nificent)
+   - [⚡ Ligthning - An ultra-fast AI chatbot powered by Groq LPUs (Language Processing Units), offering one of the fastest inference speeds on the market as of April 2024](https://github.com/MaxMLang/pytector/lightningfast-ai-chat )
    - [🔐 pytector - A Python package designed to detect prompt injection with LLMs from Hugging Face](https://github.com/MaxMLang/pytector/)
    - [🎶 Music Genre Classification](https://github.com/tobias-schnabel/sml-practical)
    - [💬 Bayesian Wordle - How a Bayesian Statistician Plays Wordle](https://github.com/MaxMLang/bayesian-wordle), [Blog Post](https://maxstatdocumentation.netlify.app/post/2024/02/12/how-a-bayesian-statistician-plays-wordle/)
