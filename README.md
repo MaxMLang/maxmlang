@@ -17,6 +17,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
    - [⚡ Ligthning - An ultra-fast AI chatbot powered by Groq LPUs (Language Processing Units), offering one of the fastest inference speeds on the market as of April 2024](https://github.com/MaxMLang/lightningfast-ai-chat )
       - [⚡ Ligthning Style Guide Assistant & Code Translator powered by Groq LPUs](https://github.com/MaxMLang/lightningAI-styleguide-assistant)
    - [🔐 pytector - A Python package designed to detect prompt injection with LLMs from Hugging Face](https://github.com/MaxMLang/pytector/)
+   - [📰 Financial Times Chart Doctor: Author/Translator of the German Translation](https://github.com/Financial-Times/chart-doctor)
    - [🎶 Music Genre Classification](https://github.com/tobias-schnabel/sml-practical)
    - [💬 Bayesian Wordle - How a Bayesian Statistician Plays Wordle](https://github.com/MaxMLang/bayesian-wordle), [Blog Post](https://maxstatdocumentation.netlify.app/post/2024/02/12/how-a-bayesian-statistician-plays-wordle/)
    - [📊 Copula Models and their Applications](https://maxmlang.shinyapps.io/copula-playground/), [Blog Post](https://maxstatdocumentation.netlify.app/post/2024/02/08/copula-playground/)
