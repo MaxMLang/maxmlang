@@ -2,7 +2,7 @@
 
 *Passionate about utilizing statistical modeling to grasp the uncertainty of the future.*
 
-- 🔭 I’m currently studying **Statistics at the University of Oxford**
+- 🔭 I’m currently pursuing a PhD in **Population Health and Statistics at the University of Oxford**
 
 - 🌱 Interested in **R, Python, Julia projects**
 - 💻 Currently developing several full-stack AI (LLM) Projects using: Langchain, LamaIndex, Chainlit, [HuggingFace](https://huggingface.co/MaxMLang), OpenAI's Toolkit, and Pinecone.
