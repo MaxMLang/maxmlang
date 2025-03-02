@@ -13,8 +13,6 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 - ☕ **Check out the projects** I have been working on recently:
    - [📞 Project Calliope - Transforming the landscape of data collection and in-depth interviewing by leveraging the power of conversational AI and LLMs.](https://linktr.ee/project_calliope)
    - [📧 Groq Mail - GroqMail is a email assistant designed to streamline your email communication with the power of AI, ensuring every message is crafted professionally, effectively, and securely.](https://github.com/MaxMLang/groq-mail)
-   - [📚 Doctor Groq - a safe, kid-friendly educational chatbot designed to provide children with a secure platform to explore educational topics.](https://github.com/MaxMLang/doctor-groq)
-   - [🇺🇸 US 2024 Election Prediction -  Simulating the US 2024 Election by using MCMC and Bayesian Hierachical Models](https://github.com/MaxMLang/us-election2024)
    - [📖 RAG-nificent -  A state-of-the-art framework that leverages the power of Retrieval-Augmented Generation (RAG) to provide instant answers and references from a curated directory of PDFs](https://github.com/MaxMLang/RAG-nificent)
    - [⚡ Ligthning - An ultra-fast AI chatbot powered by Groq LPUs (Language Processing Units), offering one of the fastest inference speeds on the market as of April 2024](https://github.com/MaxMLang/lightningfast-ai-chat )
       - [⚡ Ligthning Style Guide Assistant & Code Translator powered by Groq LPUs](https://github.com/MaxMLang/lightningAI-styleguide-assistant)
@@ -22,7 +20,6 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
    - [📰 Financial Times Chart Doctor: Author/Translator of the German Version](https://github.com/Financial-Times/chart-doctor)
    - [🎶 Music Genre Classification](https://github.com/tobias-schnabel/sml-practical)
    - [💬 Bayesian Wordle - How a Bayesian Statistician Plays Wordle](https://github.com/MaxMLang/bayesian-wordle)
-   - [📊 Copula Models and their Applications](https://maxmlang.shinyapps.io/copula-playground/)
    - [🧬 R Implementation of the Li Stephens Algorithm for Chromosome Paintings](https://github.com/MaxMLang/li-stephens-algo)
    - [🏡 Case Study on Mortgage Approvals](https://github.com/MaxMLang/us-mortgage-approvals)
    - [🗃️ Shiny App / Course Material for workshops with German public officials as part of the German Research Data Infrastructure (BERD@NFDI) ](https://github.com/MaxMLang/shiny-chart-doc)
