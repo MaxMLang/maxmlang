@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Max 👋</h1>
 
-- 🔭 I’m currently pursuing a PhD in **Population Health and Statistics at the University of Oxford**
-- 🌱 Interested in **R, Python, Julia projects**
+- 🔭 PhD candidate in Population Health & Statistics at the University of Oxford, where I spend my time modelling Malaria and Schistosomiasis.
+- 🌱 Interested in applying R and Python to the (sometimes unfashionable) problem of getting honest interpretations from data.
 - 💻 Currently developing several full-stack AI (LLM) Projects using: Langchain, LamaIndex, Chainlit, [HuggingFace](https://huggingface.co/MaxMLang), OpenAI's Toolkit, and Pinecone.
 - 💜 I love making projects interactive and available for everyone through **R Shiny Apps**
 - ⚡ **Fun fact** 
@@ -81,6 +81,19 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
   </a>
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CUDA-76B1150?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  </a>
+</p>
+
+##### GIS & Spatial Data
+<p align="left">
+  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="Google Earth Engine">
+  </a>
+  <a href="https://geopandas.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GeoPandas-139487?style=for-the-badge" alt="GeoPandas">
+  </a>
+  <a href="https://cran.r-project.org/web/views/Spatial.html" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/R%20Spatial-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Spatial">
   </a>
 </p>
 
