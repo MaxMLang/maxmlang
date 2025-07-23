@@ -8,12 +8,12 @@
 Did you know that... the Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it was not included in unicode until March 20, 2020, Unicode 13.0.0.. Until that point, there were no standardized ways of entering or representing them on computers.
 
 
-<h3 align="left">Connect with me:</h3>
+**Connect with me**
 <p align="left">
 <a href="https://www.linkedin.com/in/maxmlang/" target="https://www.linkedin.com/in/maxmlang/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxml" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages & Tools</h2>
+<h4 align="center">Languages & Tools</h4>
 
 ##### Programming Languages
 <p align="left">
