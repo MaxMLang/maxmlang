@@ -52,36 +52,39 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 ##### Statistics, ML & NLP
 <p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <a href="https://jax.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JAX-4285F4?style=for-the-badge&logo=jax&logoColor=white" alt="JAX">
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  </a>
-  <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pinecone-3C77F2?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
-  </a>
-  <a href="https://chainlit.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Chainlit-8A8A8A?style=for-the-badge&logo=chainlit&logoColor=white" alt="Chainlit">
-  </a>
-  <a href="https://vapi.ai" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VAPI-brightgreen?style=for-the-badge" alt="VAPI">
-  </a>
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CUDA-76B1150?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
-  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  </a>
+  <a href="https://openai.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  </a>
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pinecone-3C77F2?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
+  </a>
+  <a href="https://chainlit.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Chainlit-8A8A8A?style=for-the-badge&logo=chainlit&logoColor=white" alt="Chainlit">
+  </a>
+  <a href="https://vapi.ai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VAPI-brightgreen?style=for-the-badge" alt="VAPI">
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CUDA-76B1150?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  </a>
 </p>
 
 ##### GIS & Spatial Data
