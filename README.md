@@ -138,7 +138,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 - ☕ **Check out the projects** I have been working on recently:
    - [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
-   - [🎭 Markov's Onegin: How Russian Poetry Birthed Modern MCMC](https://github.com/YOUR_USERNAME/mcmcm-onegin)
+   - [🎭 Markov's Onegin: How Russian Poetry Birthed Modern MCMC](https://github.com/MaxMLang/mcmc-onegin)
    - [🗺️ spatial-epi-101 - An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
    - [🇨🇭 VictorAInox - Your AI-powered Swiss Army Knife for Digital Tasks. A comprehensive suite of AI tools including a voice-enabled conversation agent, image-to-text converter, and intelligent text rephraser, all powered by Groq LPUs for lightning-fast performance.](https://github.com/MaxMLang/AI-swiss-army-knife)
    - [🎙️ AI Voice Agents - Building conversational agents (human-dialog-systems) for data collection](https://arxiv.org/abs/2502.20140)    
