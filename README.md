@@ -137,6 +137,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 
 - ☕ **Check out the projects** I have been working on recently:
+   - [🇪🇺🛰️Copernicus Data Space Ecosystem Scripts](https://github.com/MaxMLang/copernicus-data-utilis-scripts) - Couple of Python scripts I use for research when it comes to extracting satellite data from the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) via Sentinel Hub + OpenEO
    - [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
    - [🎭 Markov's Onegin: How Russian Poetry Birthed Modern MCMC](https://github.com/MaxMLang/mcmc-onegin)
    - [🗺️ spatial-epi-101 - An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
