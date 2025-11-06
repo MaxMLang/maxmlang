@@ -139,16 +139,15 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 - ☕ **Check out the projects** I have been working on recently:
    - [🌍 hexsmoothR - R pacakge for hexagonal grid smoothing for satellite data with C++ optimization. Create hexagonal grids, extract raster values, and apply spatial smoothing with first/second-order neighbors.](https://github.com/MaxMLang/hexsmoothR)
-   - [📐 Linking copulas to geometric intuition for co-infection modelling](https://github.com/MaxMLang/bern-tetrahedron-explorer)
-   - [🇪🇺🛰️Copernicus Data Space Ecosystem Scripts](https://github.com/MaxMLang/copernicus-data-utilis-scripts) - Couple of Python scripts I use for research when it comes to extracting satellite data from the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) via Sentinel Hub + OpenEO
    - [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
-   - [🎭 Markov's Onegin: How Russian Poetry Birthed Modern MCMC](https://github.com/MaxMLang/mcmc-onegin)
    - [🗺️ spatial-epi-101 - An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
-   - [🇨🇭 VictorAInox - Your AI-powered Swiss Army Knife for Digital Tasks. A comprehensive suite of AI tools including a voice-enabled conversation agent, image-to-text converter, and intelligent text rephraser, all powered by Groq LPUs for lightning-fast performance.](https://github.com/MaxMLang/AI-swiss-army-knife)
    - [🎙️ AI Voice Agents - Building conversational agents (human-dialog-systems) for data collection](https://arxiv.org/abs/2502.20140)    
    - [📖 RAG-nificent -  A state-of-the-art framework that leverages the power of Retrieval-Augmented Generation (RAG) to provide instant answers and references from a curated directory of PDFs](https://github.com/MaxMLang/RAG-nificent)
    - [⚡ Ligthning - An ultra-fast AI chatbot powered by Groq LPUs (Language Processing Units), offering one of the fastest inference speeds on the market as of April 2024](https://github.com/MaxMLang/lightningfast-ai-chat )
    - [🔐 pytector - A Python package designed to detect prompt injection with LLMs from Hugging Face](https://github.com/MaxMLang/pytector/)
+   - [🇨🇭 VictorAInox - Your AI-powered Swiss Army Knife for Digital Tasks. A comprehensive suite of AI tools including a voice-enabled conversation agent, image-to-text converter, and intelligent text rephraser, all powered by Groq LPUs for lightning-fast performance.](https://github.com/MaxMLang/AI-swiss-army-knife)
+   - [📐 Linking copulas to geometric intuition for co-infection modelling](https://github.com/MaxMLang/bern-tetrahedron-explorer)
+   - [🇪🇺🛰️Copernicus Data Space Ecosystem Scripts](https://github.com/MaxMLang/copernicus-data-utilis-scripts) - Couple of Python scripts I use for research when it comes to extracting satellite data from the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) via Sentinel Hub + OpenEO
    - [📰 Financial Times Chart Doctor: Author/Translator of the German Version](https://github.com/Financial-Times/chart-doctor)
    - [🗃️ Shiny App / Course Material for workshops with German public officials as part of the German Research Data Infrastructure (BERD@NFDI) ](https://github.com/MaxMLang/shiny-chart-doc)
    - [🎶 Music Genre Classification](https://github.com/tobias-schnabel/sml-practical)
