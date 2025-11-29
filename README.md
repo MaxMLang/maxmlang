@@ -138,6 +138,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 
 - ☕ **Check out the projects** I have been working on recently:
+   - [🕒 Timeglobe - Like worldtimebuddy.com but awesome. A meeting time finder webapp with an interactive 3D globe. Select cities, pick a time, and see the local time for each location. ](https://github.com/MaxMLang/timeglobe)
    - [🌍 hexsmoothR - R pacakge for hexagonal grid smoothing for satellite data with C++ optimization. Create hexagonal grids, extract raster values, and apply spatial smoothing with first/second-order neighbors.](https://github.com/MaxMLang/hexsmoothR)
    - [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
    - [🗺️ spatial-epi-101 - An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
