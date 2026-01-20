@@ -139,6 +139,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 - ☕ **Check out the projects** I have been working on recently:
    - [🕒 Timeglobe - Like worldtimebuddy.com but awesome. A meeting time finder webapp with an interactive 3D globe. Select cities, pick a time, and see the local time for each location. ](https://github.com/MaxMLang/timeglobe)
+   - [🌳 nostree - Like Linktree but on Nostr. Decentralised. Minimal. Yours.](https://github.com/MaxMLang/nostree)
    - [🌍 hexsmoothR - R package for hexagonal grid smoothing for satellite data with C++ optimization. Create hexagonal grids, extract raster values, and apply spatial smoothing with first/second-order neighbors.](https://github.com/MaxMLang/hexsmoothR)
    - [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
    - [🗺️ spatial-epi-101 - An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
@@ -151,9 +152,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
    - [🇪🇺🛰️Copernicus Data Space Ecosystem Scripts](https://github.com/MaxMLang/copernicus-data-utilis-scripts) - Couple of Python scripts I use for research when it comes to extracting satellite data from the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) via Sentinel Hub + OpenEO
    - [📰 Financial Times Chart Doctor: Author/Translator of the German Version](https://github.com/Financial-Times/chart-doctor)
    - [🗃️ Shiny App / Course Material for workshops with German public officials as part of the German Research Data Infrastructure (BERD@NFDI) ](https://github.com/MaxMLang/shiny-chart-doc)
-   - [🎶 Music Genre Classification](https://github.com/tobias-schnabel/sml-practical)
    - [💬 Bayesian Wordle - How a Bayesian Statistician Plays Wordle](https://github.com/MaxMLang/bayesian-wordle)
-   - [🧬 R Implementation of the Li Stephens Algorithm for Chromosome Paintings](https://github.com/MaxMLang/li-stephens-algo)
    - [💧 Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://drive.google.com/file/d/1sv_WN0VAbswnjdWK3iLhfuzo9P-m9ota/view?usp=sharing)
    - [🦠 Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
      - [Shiny App for CTIS Mental Health](https://maxmlang.shinyapps.io/CTIS-shiny/) 
