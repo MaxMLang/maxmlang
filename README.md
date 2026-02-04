@@ -142,6 +142,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
    - [🕒 Timeglobe - Like worldtimebuddy.com but awesome. A meeting time finder webapp with an interactive 3D globe. Select cities, pick a time, and see the local time for each location. ](https://github.com/MaxMLang/timeglobe)
    - [🌳 nostree - Like Linktree but on Nostr. Decentralised. Minimal. Yours.](https://github.com/MaxMLang/nostree)
    - [🌍 hexsmoothR - R package for hexagonal grid smoothing for satellite data with C++ optimization. Create hexagonal grids, extract raster values, and apply spatial smoothing with first/second-order neighbors.](https://github.com/MaxMLang/hexsmoothR)
+   - [🦅 FalkenBlick - Geospatial monitoring platform for offshore energy infrastructure. Visualizes oil & gas platforms, wind farms, wells, and pipelines (There is no Hawk (Falken) emoji so took the eagle)](https://github.com/MaxMLang/falkenblick)
    - [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
    - [🗺️ spatial-epi-101 - An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
    - [🎙️ AI Voice Agents - Building conversational agents (human-dialog-systems) for data collection](https://arxiv.org/abs/2502.20140)    
