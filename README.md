@@ -139,7 +139,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 
 - ☕ **Check out the projects** I have been working on recently:
-   -  [Open Agentic Survey Interview System (OASIS A self-hosted platform for AI-powered conversational interviews at scale. Built for researchers.](https://github.com/oasis-surveys)
+   -  [Open Agentic Survey Interview System - OASIS A self-hosted platform for AI-powered conversational interviews at scale. Built for researchers.](https://github.com/oasis-surveys)
    - [🌐 WikiWisch - Doomscrolling, but you actually learn something](https://github.com/MaxMLang/wikiscroll)
    - [🕒 Timeglobe - Like worldtimebuddy.com but awesome. A meeting time finder webapp with an interactive 3D globe. Select cities, pick a time, and see the local time for each location. ](https://github.com/MaxMLang/timeglobe)
    - [🌳 nostree - Like Linktree but on Nostr. Decentralised. Minimal. Yours.](https://github.com/MaxMLang/nostree)
