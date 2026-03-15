@@ -131,6 +131,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
       <a href="https://maxmlang.github.io/hexsmoothR/" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/hexsmoothR/blob/main/man/figures/hexsmoothR_sticker.png' href="https://maxmlang.github.io/hexsmoothR/" alt='hexsmoothR' width="115" height="115" />
     <a href="https://github.com/MaxMLang/pytector" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/assets/blob/main/pytector-logo.png'  alt='pytector-logo' width="115" height="115" />
    <a href="https://github.com/MaxMLang/RAG-nificent" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/RAG-nificent/blob/master/assets/logo.png' href="https://github.com/MaxMLang/RAG-nificent" alt='RAG-nificient' width="115" height="115" />
+   <a href="https://github.com/oasis-surveys" target="_blank" rel="noreferrer"> <img src='https://avatars.githubusercontent.com/u/268108726?s=200&v=4' href="https://github.com/oasis-surveys" alt='OASIS' width="115" height="115" />
 
 </p>
 
@@ -138,6 +139,7 @@ Did you know that... the Chinese character for so called <a title="via Wikimedia
 
 
 - ☕ **Check out the projects** I have been working on recently:
+   -  [Open Agentic Survey Interview System (OASIS A self-hosted platform for AI-powered conversational interviews at scale. Built for researchers.](https://github.com/oasis-surveys)
    - [🌐 WikiWisch - Doomscrolling, but you actually learn something](https://github.com/MaxMLang/wikiscroll)
    - [🕒 Timeglobe - Like worldtimebuddy.com but awesome. A meeting time finder webapp with an interactive 3D globe. Select cities, pick a time, and see the local time for each location. ](https://github.com/MaxMLang/timeglobe)
    - [🌳 nostree - Like Linktree but on Nostr. Decentralised. Minimal. Yours.](https://github.com/MaxMLang/nostree)
