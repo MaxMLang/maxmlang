@@ -5,7 +5,7 @@
 - 💻 Currently developing several full-stack AI (LLM) Projects using: Langchain, LamaIndex, Chainlit, [HuggingFace](https://huggingface.co/MaxMLang), OpenAI's Toolkit, and Pinecone.
 - 💜 I love making projects interactive and available for everyone through **R Shiny Apps**
 - ⚡ **Fun fact** 
-Did you know that... the Chinese character for so called <a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a><a title="via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bi%C3%A1ng.svg"><img width="15" alt="Biáng" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bi%C3%A1ng.svg/512px-Bi%C3%A1ng.svg.png"></a>面 or biangbiang noodles is so complicated that it was not included in unicode until March 20, 2020, Unicode 13.0.0.. Until that point, there were no standardized ways of entering or representing them on computers.
+Did you know that... the Chinese character for so called 𰻝𰻝面 or biangbiang noodles is so complicated that it was not included in unicode until March 20, 2020, Unicode 13.0.0.. Until that point, there were no standardized ways of entering or representing them on computers.
 
 
 **Connect with me**
