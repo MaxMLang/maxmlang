@@ -13,6 +13,72 @@ Did you know that... the Chinese character for so called 𰻝𰻝面 or biangbia
 <a href="https://www.linkedin.com/in/maxmlang/" target="https://www.linkedin.com/in/maxmlang/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxml" height="30" width="40" /></a>
 </p>
 
+---
+
+##### Packages, Frameworks & Highlights
+<p align="center">
+  <a href="https://aeroreport.de/en/innovation/new-data-management-system-for-engine-test-data" target="_blank" rel="noreferrer">
+    <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' alt='datapipeliner-logo' width="115" height="115" />
+  </a>
+  <a href="https://maxmlang.github.io/hexsmoothR/" target="_blank" rel="noreferrer">
+    <img src='https://github.com/MaxMLang/hexsmoothR/blob/main/man/figures/hexsmoothR_sticker.png' alt='hexsmoothR' width="115" height="115" />
+  </a>
+  <a href="https://github.com/MaxMLang/pytector" target="_blank" rel="noreferrer">
+    <img src='https://github.com/MaxMLang/assets/blob/main/pytector-logo.png' alt='pytector-logo' width="115" height="115" />
+  </a>
+  <a href="https://github.com/MaxMLang/RAG-nificent" target="_blank" rel="noreferrer">
+    <img src='https://github.com/MaxMLang/RAG-nificent/blob/master/assets/logo.png' alt='RAG-nificient' width="115" height="115" />
+  </a>
+  <a href="https://github.com/oasis-surveys" target="_blank" rel="noreferrer">
+    <img src='https://avatars.githubusercontent.com/u/268108726?s=200&v=4' alt='OASIS' width="115" height="115" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://maxmlang.github.io/jetson-voice-assistant/" target="_blank" rel="noreferrer">
+    <img src='https://github.com/MaxMLang/maxmlang/blob/main/demo.jpg' alt='On-Device Voice Assistant Demo' width="320" height="320" />
+  </a>
+</p>
+<p align="center"><i>Local voice assistant running on an NVIDIA Jetson</i></p>
+
+---
+
+#### Projects
+
+##### AI, LLM & Voice
+- [🌴 OASIS — A self-hosted platform for AI-powered conversational interviews at scale. Built for researchers.](https://github.com/oasis-surveys)
+- [🔊 On-Device Voice Assistant — Locally running voice assistant on NVIDIA Jetson](https://maxmlang.github.io/jetson-voice-assistant/)
+- [🎙️ AI Voice Agents — Building conversational agents (human-dialog-systems) for data collection](https://arxiv.org/abs/2502.20140)
+- [💻 cxg-census-mcp — MCP server for CZ CELLxGENE Discover Census. Single-cell RNA-seq queries, ontology-aware.](https://github.com/MaxMLang/cxg-census-mcp)
+- [💻 WHO-MCP — An MCP server and tools for WHO GHO, Disease Outbreak News, and the INFORM Risk Index.](https://github.com/MaxMLang/who-sentinel-mcp)
+- [📖 RAG-nificent — Retrieval-Augmented Generation framework for instant answers from a curated directory of PDFs](https://github.com/MaxMLang/RAG-nificent)
+- [🔐 pytector — A Python package to detect prompt injection with LLMs from Hugging Face](https://github.com/MaxMLang/pytector/)
+
+##### Web Apps & Tools
+- [🌐 WikiWisch — Doomscrolling, but you actually learn something](https://github.com/MaxMLang/wikiscroll)
+- [🕒 Timeglobe — Like worldtimebuddy.com but awesome. Meeting time finder with an interactive 3D globe.](https://github.com/MaxMLang/timeglobe)
+- [🌳 nostree — Like Linktree but on Nostr. Decentralised. Minimal. Yours.](https://github.com/MaxMLang/nostree)
+- [🦅 FalkenBlick — Geospatial monitoring platform for offshore energy infrastructure](https://github.com/MaxMLang/falkenblick)
+
+##### R Packages, GIS & Spatial
+- [🌍 hexsmoothR — R package for hexagonal grid smoothing for satellite data with C++ optimization](https://github.com/MaxMLang/hexsmoothR)
+- [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
+- [🗺️ spatial-epi-101 — An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
+- [🇪🇺🛰️ Copernicus Data Space Ecosystem Scripts](https://github.com/MaxMLang/copernicus-data-utilis-scripts) — Python scripts for extracting satellite data via Sentinel Hub + OpenEO
+
+##### Stats & Research
+- [📐 Linking copulas to geometric intuition for co-infection modelling](https://github.com/MaxMLang/bern-tetrahedron-explorer)
+- [💧 Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://drive.google.com/file/d/1sv_WN0VAbswnjdWK3iLhfuzo9P-m9ota/view?usp=sharing)
+- [🦠 Covid Trends and Impact Survey (CTIS) — Mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar) · [Shiny App](https://maxmlang.shinyapps.io/CTIS-shiny/)
+- [💬 Bayesian Wordle — How a Bayesian Statistician Plays Wordle](https://github.com/MaxMLang/bayesian-wordle)
+- [💲 Portfolio Analysis R Shiny App](https://github.com/MaxMLang/portfolio_analysis)
+
+##### Data Viz 
+- [📰 Financial Times Chart Doctor — Author/Translator of the German Version](https://github.com/Financial-Times/chart-doctor)
+- [🗃️ BERD@NFDI — Shiny App / Course Material for workshops with German public officials](https://github.com/MaxMLang/shiny-chart-doc)
+
+---
+
 <h4 align="center">Languages & Tools</h4>
 
 ##### Programming Languages
@@ -20,7 +86,7 @@ Did you know that... the Chinese character for so called 𰻝𰻝面 or biangbia
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -55,36 +121,36 @@ Did you know that... the Chinese character for so called 𰻝𰻝面 or biangbia
   <a href="https://jax.readthedocs.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JAX-4285F4?style=for-the-badge&logo=jax&logoColor=white" alt="JAX">
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  </a>
-  <a href="https://openai.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pinecone-3C77F2?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
-  </a>
-  <a href="https://chainlit.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Chainlit-8A8A8A?style=for-the-badge&logo=chainlit&logoColor=white" alt="Chainlit">
-  </a>
-  <a href="https://vapi.ai" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VAPI-brightgreen?style=for-the-badge" alt="VAPI">
-  </a>
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CUDA-76B1150?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
-  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  </a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  </a>
+  <a href="https://openai.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  </a>
+  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pinecone-3C77F2?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
+  </a>
+  <a href="https://chainlit.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Chainlit-8A8A8A?style=for-the-badge&logo=chainlit&logoColor=white" alt="Chainlit">
+  </a>
+  <a href="https://vapi.ai" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VAPI-brightgreen?style=for-the-badge" alt="VAPI">
+  </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CUDA-76B1150?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
+  </a>
 </p>
 
 ##### GIS & Spatial Data
@@ -124,43 +190,3 @@ Did you know that... the Chinese character for so called 𰻝𰻝面 or biangbia
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
 </p>
-
-##### Package and Framework Development:
-<p align="center">
-    <a href="https://aeroreport.de/en/innovation/new-data-management-system-for-engine-test-data" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/maxmlang/blob/main/hex_dp_MTU.png' href="https://aeroreport.de/en/innovation/new-data-management-system-for-engine-test-data" alt='datapipeliner-logo' width="115" height="115" />
-      <a href="https://maxmlang.github.io/hexsmoothR/" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/hexsmoothR/blob/main/man/figures/hexsmoothR_sticker.png' href="https://maxmlang.github.io/hexsmoothR/" alt='hexsmoothR' width="115" height="115" />
-    <a href="https://github.com/MaxMLang/pytector" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/assets/blob/main/pytector-logo.png'  alt='pytector-logo' width="115" height="115" />
-   <a href="https://github.com/MaxMLang/RAG-nificent" target="_blank" rel="noreferrer"> <img src='https://github.com/MaxMLang/RAG-nificent/blob/master/assets/logo.png' href="https://github.com/MaxMLang/RAG-nificent" alt='RAG-nificient' width="115" height="115" />
-   <a href="https://github.com/oasis-surveys" target="_blank" rel="noreferrer"> <img src='https://avatars.githubusercontent.com/u/268108726?s=200&v=4' href="https://github.com/oasis-surveys" alt='OASIS' width="115" height="115" />
-
-</p>
-
-
-
-
-- ☕ **Check out the projects** I have been working on recently:
-   -  [🌴 Open Agentic Survey Interview System - OASIS A self-hosted platform for AI-powered conversational interviews at scale. Built for researchers.](https://github.com/oasis-surveys)
-   -  [💻 cxg-census-mcp MCP server for CZ CELLxGENE Discover Census. Single-cell RNA-seq queries, ontology-aware (CL, UBERON, EFO), provenance-tracked. For Claude, Cursor, MCP clients.](https://github.com/MaxMLang/cxg-census-mcp)
-   -  [💻 WHO-MCP An MCP server and tools for WHO GHO, Disease Outbreak News, and the INFORM Risk Index.](https://github.com/MaxMLang/who-sentinel-mcp)
-   - [🌐 WikiWisch - Doomscrolling, but you actually learn something](https://github.com/MaxMLang/wikiscroll)
-   - [🕒 Timeglobe - Like worldtimebuddy.com but awesome. A meeting time finder webapp with an interactive 3D globe. Select cities, pick a time, and see the local time for each location. ](https://github.com/MaxMLang/timeglobe)
-   - [🌳 nostree - Like Linktree but on Nostr. Decentralised. Minimal. Yours.](https://github.com/MaxMLang/nostree)
-   - [🌍 hexsmoothR - R package for hexagonal grid smoothing for satellite data with C++ optimization. Create hexagonal grids, extract raster values, and apply spatial smoothing with first/second-order neighbors.](https://github.com/MaxMLang/hexsmoothR)
-   - [🦅 FalkenBlick - Geospatial monitoring platform for offshore energy infrastructure. Visualizes oil & gas platforms, wind farms, wells, and pipelines (There is no Hawk (Falken) emoji so took the eagle)](https://github.com/MaxMLang/falkenblick)
-   - [🟢 CUDA Programming and application to GIS smoothing](https://github.com/MaxMLang/cuda-gis-smoothing)
-   - [🗺️ spatial-epi-101 - An Introduction to Spatial Epidemiology using R](https://maxmlang.github.io/spatial-epi-101/)
-   - [🎙️ AI Voice Agents - Building conversational agents (human-dialog-systems) for data collection](https://arxiv.org/abs/2502.20140)    
-   - [📖 RAG-nificent -  A state-of-the-art framework that leverages the power of Retrieval-Augmented Generation (RAG) to provide instant answers and references from a curated directory of PDFs](https://github.com/MaxMLang/RAG-nificent)
-   - [⚡ Ligthning - An ultra-fast AI chatbot powered by Groq LPUs (Language Processing Units), offering one of the fastest inference speeds on the market as of April 2024](https://github.com/MaxMLang/lightningfast-ai-chat )
-   - [🔐 pytector - A Python package designed to detect prompt injection with LLMs from Hugging Face](https://github.com/MaxMLang/pytector/)
-   - [📐 Linking copulas to geometric intuition for co-infection modelling](https://github.com/MaxMLang/bern-tetrahedron-explorer)
-   - [🇪🇺🛰️Copernicus Data Space Ecosystem Scripts](https://github.com/MaxMLang/copernicus-data-utilis-scripts) - Couple of Python scripts I use for research when it comes to extracting satellite data from the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) via Sentinel Hub + OpenEO
-   - [📰 Financial Times Chart Doctor: Author/Translator of the German Version](https://github.com/Financial-Times/chart-doctor)
-   - [🗃️ Shiny App / Course Material for workshops with German public officials as part of the German Research Data Infrastructure (BERD@NFDI) ](https://github.com/MaxMLang/shiny-chart-doc)
-   - [💬 Bayesian Wordle - How a Bayesian Statistician Plays Wordle](https://github.com/MaxMLang/bayesian-wordle)
-   - [💧 Multivariate Analysis of Climatological and Hydrological Low Water Drivers in Bavaria](https://drive.google.com/file/d/1sv_WN0VAbswnjdWK3iLhfuzo9P-m9ota/view?usp=sharing)
-   - [🦠 Covid Trends and Impact Survey (CTIS) researching the mental health during the pandemic](https://github.com/christian-hobelsberger/CTIS-Seminar)
-     - [Shiny App for CTIS Mental Health](https://maxmlang.shinyapps.io/CTIS-shiny/) 
-   - [💲 Portfolio Analysis R Shiny App](https://github.com/MaxMLang/portfolio_analysis)
-
-
